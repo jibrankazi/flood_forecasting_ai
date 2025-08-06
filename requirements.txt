@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+geopandas
+matplotlib
+seaborn
+rasterio
+shapely
+rasterstats
+richdem
+xgboost
+lightgbm
+opencv-python
+jupyter
