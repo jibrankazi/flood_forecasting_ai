@@ -1,0 +1,21 @@
+# Ignore raw data and model files
+# Raw data directory
+/data/raw/
+
+# Model artifacts
+/models/
+
+# Ignore Jupyter notebook checkpoints and Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore large model files
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.pt
+*.ckpt
+
+# Ignore zip files
+*.zip
